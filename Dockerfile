@@ -22,6 +22,9 @@ RUN \
     nodejs && \
   echo "**** install runtime dependencies ****" && \
   apt-get install -y \
+    openjdk-11-jdk-headless \
+    maven \
+    gradle \    
     git \
     jq \
     libatomic1 \
