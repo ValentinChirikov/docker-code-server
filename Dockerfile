@@ -23,6 +23,7 @@ RUN \
   echo "**** install runtime dependencies ****" && \
   apt-get install -y \
     openjdk-11-jdk-headless \
+    openjdk-17-jdk-headless \
     maven \
     gradle \    
     git \

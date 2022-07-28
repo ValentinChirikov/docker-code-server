@@ -10,7 +10,7 @@
 [![GitHub](https://img.shields.io/static/v1.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&label=linuxserver.io&message=GitHub&logo=github)](https://github.com/linuxserver "view the source for all of our repositories.")
 [![Open Collective](https://img.shields.io/opencollective/all/linuxserver.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&label=Supporters&logo=open%20collective)](https://opencollective.com/linuxserver "please consider helping us by either donating or contributing to our budget")
 
-The fork of [LinuxServer.io](https://linuxserver.io) with additional OpenJDK 11, Maven, Gradle packages:
+The fork of [LinuxServer.io](https://linuxserver.io) with additional OpenJDK 11, OpenJDK 17, Maven, Gradle packages:
 
 * regular and timely application updates
 * easy user mappings (PGID, PUID)
